@@ -1,0 +1,9 @@
+[submodule "DoBer_frontend"]
+	path = DoBer_frontend
+	url = https://github.com/vansh123456/DoBer_frontend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vansh123456/DoBer_frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/vansh123456/Dober_backend
